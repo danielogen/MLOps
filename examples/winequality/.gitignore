@@ -1,0 +1,10 @@
+env/
+*.json
+*.csv
+data/
+__pycache__
+.DS_Store
+mlruns/
+*.sqlite
+artifact/
+.env
